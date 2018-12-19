@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="mylib.h" Top="Yes" Tabpos="1" TopLine="40">
+			<Cursor Line="75" Column="1"/>
+		</File>
+		<File Name="mylib.cpp" Top="No" Tabpos="2" TopLine="208">
+			<Cursor Line="243" Column="1"/>
+		</File>
+	</Files>
+</Layout>
